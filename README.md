@@ -1,5 +1,7 @@
 # Biparental B73xPT RIL mapping population lipid QTLxE with landrace environmental GxE.
 
+*Fausto Rodríguez-Zapata, Ruairidh J.H. Sawers, Rubén Rellán-Álvarez*
+
 [![DOI](https://zenodo.org/badge/197357178.svg)](https://zenodo.org/badge/latestdoi/197357178)
 
 We looked for the GxE interaction QTLs for phospholipids in a B73 x Palomero Toluqueño (a highland landrace from the Central Plateau of Mexico ) BC1S5 Backcross Introgressed Line mapping population made of 87 individuals and genotyped using DARTseq. The mapping population was grown in a highland site in Metepec, Edo de Mexico at 2600 masl during the Summer of 2016 and in Puerto Vallarta, Jalisco at 50 masl during the winter of 2016/17. We collected samples from tip of the second youngest leave above the last leave with a fully developed collar at V4-V6 developmental stages. Samples were extracted according to We analyzed the samples using UHPLC-QTOF and 67 leaf lipid species were identified. Individual levels of each lipid were used for QTL analysis. We also used as phenotypes the sum total of the following lipid classes: diglycerides (DGs), triglycerides (TGs), phosphatidylcholines (PCs) and lysophosphatidylcholines (LPCs). Furthermore, we also included the log base 2 transformed ratios of LPCs/PCs and the ratios of the species with the most negative significant correlation ( t-test, p \< 1e-10) and at least 300 observations in the data (see table). Full details can be found in (paper to be published).
